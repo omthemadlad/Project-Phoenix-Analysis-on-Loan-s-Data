@@ -1,0 +1,2 @@
+# Project-Phoenix-Leveraging-Data-Analytics-for-DPDzero-Borrower-Repayment-Optimization-Introduction
+Project Phoenix simulates a data analysis task undertaken at DPDzero, a data-driven organization that relies on analyst insights to guide decision-making. It provides an opportunity to showcase your ability to leverage data analysis techniques for real-world scenarios, using Jupyter notebooks as the primary tool.
